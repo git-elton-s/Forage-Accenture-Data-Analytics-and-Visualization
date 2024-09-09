@@ -1,4 +1,4 @@
-# Accenture Data Analytics and Visualization <br><br> <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_TeJAqCY4WoniQCcQL_1723569398915_completion_certificate.pdf"><img src="https://github.com/user-attachments/assets/9215e305-8d11-4a87-9779-fc3488e5ce79" alt="Certificate" width="120" height="40"></a>
+# Accenture Data Analytics and Visualization Virtual Job Simulation - Forage<br><br> <a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_TeJAqCY4WoniQCcQL_1723569398915_completion_certificate.pdf"><img src="https://github.com/user-attachments/assets/9215e305-8d11-4a87-9779-fc3488e5ce79" alt="Certificate" width="120" height="40"></a>
 
 ## Completed a job simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
 - Cleaned, modeled, and analyzed seven datasets using **Microsoft Excel** to uncover valuable insights.
