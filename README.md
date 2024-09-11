@@ -8,15 +8,17 @@
 ![Top 5 Categories by Score for Social Buzz - PowerBI](https://github.com/user-attachments/assets/f4eca3e3-3082-438a-9b40-e6553c955700)
 
 ## Project Content
-#### Task 1: Project Understanding
-#### Task 2: Excel Analysis & Dashboard
-- [Excel File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.xlsx)
-##### Additional Task: Power BI Visualization
-- [Power BI File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.pbix) | [PDF](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.pdf)
-#### Task 3: PowerPoint Presentation
-- [PowerPoint File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%203%20-%20Data%20Analytics%20Presentation.pptx)
-
 [Project Assets](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/tree/main/assets)
+
+#### Task 1: Project Understanding
+
+#### Task 2: Excel Analysis & Dashboard
+> [Excel File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.xlsx)
+##### Additional Task: Power BI Visualization
+> [Power BI File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.pbix) | [PDF](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%202%20-%20Top%205%20Categories%20by%20Score%20for%20Social%20Buzz.pdf)
+
+#### Task 3: PowerPoint Presentation
+> [PowerPoint File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%203%20-%20Data%20Analytics%20Presentation.pptx)
 
 
 ### Software and Programming Languages Used 
