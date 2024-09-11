@@ -16,8 +16,7 @@
 #### Task 3: PowerPoint Presentation
 - [PowerPoint File](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/Task%203%20-%20Data%20Analytics%20Presentation.pptx)
 
-[Project Assets](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/tree/main/assets) \
-[Complete Project (.zip)](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/blob/main/%5BForage%5D%20Accenture%20-%20Data%20Analytics%20and%20Visualization.zip)
+[Project Assets](https://github.com/git-elton-s/Forage-Accenture-Data-Analytics-and-Visualization/tree/main/assets)
 
 
 ### Software and Programming Languages Used 
